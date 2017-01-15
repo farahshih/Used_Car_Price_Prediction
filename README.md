@@ -6,3 +6,5 @@ Our project focuses on the used car market in Germany. We act as a used car deal
 
 #### Data Source
 https://www.kaggle.com/orgesleka/used-cars-database
+
+Ci Chen, Fu-Chi Shih, Naixin Li (January, 2017)
